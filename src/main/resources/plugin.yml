@@ -1,0 +1,5 @@
+name: XegaParkour
+version: '${project.version}'
+main: com.github.carthax08.xegaparkour.PluginMain
+authors: [ CarThax ]
+description: Parkour plugin for XEGA
